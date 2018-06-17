@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view id="MainView"><sdk_dependencies><dependency library="API" object="Profile"></dependency><dependency library="UI" object="Apps"></dependency><dependency library="AEL" object="Literals"></dependency><dependency library="DEV" object="BugTracker"></dependency></sdk_dependencies><app_dependencies/></view>
